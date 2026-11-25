@@ -1,0 +1,14 @@
+.btn-link {
+  display: inline-block;
+  background-color: #007bff; /* biru terang */
+  color: white;              /* teks putih */
+  padding: 10px 16px;
+  border-radius: 6px;
+  text-decoration: none;     /* hilangkan underline */
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.btn-link:hover {
+  background-color: #0056b3; /* biru tua saat hover */
+}
